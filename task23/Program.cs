@@ -8,3 +8,7 @@ while(count <= number)
     Console.WriteLine (count*count*count);
     count++;
 }
+for (int i = 0; i < length; i++)
+{
+    
+}
