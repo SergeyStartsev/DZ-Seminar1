@@ -17,3 +17,4 @@ Console.WriteLine("Введите число z2");
 double z2 = Convert.ToDouble(Console.ReadLine());
 double Length = Math.Sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1)+(z2-z1)*(z2-z1));
 Console.WriteLine(Length);
+
