@@ -1,0 +1,15 @@
+E:\GB\DZ-Seminar1\task44\bin\Debug\net6.0\task44.exe
+E:\GB\DZ-Seminar1\task44\bin\Debug\net6.0\task44.deps.json
+E:\GB\DZ-Seminar1\task44\bin\Debug\net6.0\task44.runtimeconfig.json
+E:\GB\DZ-Seminar1\task44\bin\Debug\net6.0\task44.dll
+E:\GB\DZ-Seminar1\task44\bin\Debug\net6.0\task44.pdb
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.csproj.AssemblyReference.cache
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.AssemblyInfoInputs.cache
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.AssemblyInfo.cs
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.csproj.CoreCompileInputs.cache
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.dll
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\refint\task44.dll
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.pdb
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\task44.genruntimeconfig.cache
+E:\GB\DZ-Seminar1\task44\obj\Debug\net6.0\ref\task44.dll
